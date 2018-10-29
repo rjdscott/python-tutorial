@@ -4,3 +4,5 @@ numpy
 sqlalchemy
 xlrd
 openpyxl
+beautifulsoup4
+requests
