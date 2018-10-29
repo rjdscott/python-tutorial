@@ -1,4 +1,5 @@
-# Intro to Python
+# Python Tutorial
+This repository intends to provide a summary of the beginner topics in order to become an effective python developer.
 
 ## Getting started
 
