@@ -13,9 +13,9 @@ We will be using the very popular Jupyter Notebook as the place where we will wr
 and view out outputs
 
 ## Prerequisites
-1. install git
-2. clone this repository locally on your machine
-3. create a virtual environment and install packages
+1. install git - instructions here
+2. Clone this repository locally on your machine (optional, if you want the source code)
+3. Create a virtual environment and install packages
 
 
 ## Goals of the session
@@ -25,3 +25,10 @@ and view out outputs
 4. Data analysis pipelines with Pandas (read, clean, analyse, visualize)
 5. Intro to SQL Databases and Pandas (crate sqlite database, import data, write queries)
 6. Parallelize workflow with Dask
+
+## Helpful resources
+1. If you ever get stuck - use google. The python community is very strong and active
+2. Pandas documentation
+3. Virtualenv documentation
+4. JupyterLab documentation
+4. The zen of python
