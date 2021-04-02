@@ -1,6 +1,5 @@
-jupyter
+jupyterlab
 pandas
-numpy
 sqlalchemy
 xlrd
 openpyxl
